@@ -5,7 +5,7 @@ import {graphql} from 'gatsby';
 
 import {Layout} from '../components/index';
 import Header from '../components/Header';
-import {getPages, Link, safePrefix} from '../utils';
+import {getPages, Link, withPrefix} from '../utils';
 import Footer from '../components/Footer';
 
 // this minimal GraphQL query ensures that when 'gatsby develop' is running,
@@ -30,22 +30,22 @@ export default class Home extends React.Component {
                     {_.map(display_posts, (post, post_idx) => (
                     <article key={post_idx} className="post">
                       <header className="post-header">
-                        <h2 className="post-title"><Link to={safePrefix(_.get(post, 'url', null))} rel="bookmark">{_.get(post, 'frontmatter.title', null)}</Link></h2>
+                        <h2 className="post-title"><Link to={withPrefix(_.get(post, 'url', null))} rel="bookmark">{_.get(post, 'frontmatter.title', null)}</Link></h2>
                         <div className="post-meta">
                           Published on <time className="published"
                             dateTime={moment(_.get(post, 'frontmatter.date', null)).strftime('%Y-%m-%d %H:%M')}>{moment(_.get(post, 'frontmatter.date', null)).strftime('%B %d, %Y')}</time>
                         </div>
                       </header>
                       {_.get(post, 'frontmatter.thumb_img_path', null) && (
-                      <Link className="post-thumbnail" to={safePrefix(_.get(post, 'url', null))}>
-                        <img className="thumbnail" src={safePrefix(_.get(post, 'frontmatter.thumb_img_path', null))} alt={_.get(post, 'frontmatter.title', null)} />
+                      <Link className="post-thumbnail" to={withPrefix(_.get(post, 'url', null))}>
+                        <img className="thumbnail" src={withPrefix(_.get(post, 'frontmatter.thumb_img_path', null))} alt={_.get(post, 'frontmatter.title', null)} />
                       </Link>
                       )}
                       <div className="post-content">
                         <p>{_.get(post, 'frontmatter.excerpt', null)}</p>
                       </div>
                       <p className="read-more">
-                        <Link className="read-more-link" to={safePrefix(_.get(post, 'url', null))}>Keep reading <span className="icon-arrow-right" aria-hidden="true" /></Link>
+                        <Link className="read-more-link" to={withPrefix(_.get(post, 'url', null))}>Keep reading <span className="icon-arrow-right" aria-hidden="true" /></Link>
                       </p>
                     </article>
                     ))}

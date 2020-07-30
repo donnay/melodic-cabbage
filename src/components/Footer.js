@@ -1,7 +1,7 @@
 import React from 'react';
 import _ from 'lodash';
 
-import {htmlToReact, Link, safePrefix} from '../utils';
+import {htmlToReact, Link, withPrefix} from '../utils';
 
 export default class Footer extends React.Component {
     render() {
@@ -13,7 +13,7 @@ export default class Footer extends React.Component {
                 <span className="copyright">{htmlToReact(_.get(this.props, 'pageContext.site.siteMetadata.footer.content', null))}</span>
                 )}
                 {_.map(_.get(this.props, 'pageContext.site.siteMetadata.footer.links', null), (link, link_idx) => (
-                  <Link key={link_idx} to={safePrefix(_.get(link, 'url', null))} {...(_.get(link, 'new_window', null) ? ({target: '_blank', rel: 'noopener'}) : null)}>{_.get(link, 'label', null)}</Link>
+                  <Link key={link_idx} to={withPrefix(_.get(link, 'url', null))} {...(_.get(link, 'new_window', null) ? ({target: '_blank', rel: 'noopener'}) : null)}>{_.get(link, 'label', null)}</Link>
                 ))}
               </div>
               )}

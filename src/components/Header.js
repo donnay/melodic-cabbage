@@ -1,7 +1,7 @@
 import React from 'react';
 import _ from 'lodash';
 
-import {toStyleObj, safePrefix} from '../utils';
+import {toStyleObj, withPrefix} from '../utils';
 import Branding from './Branding';
 import Navigation from './Navigation';
 
@@ -10,9 +10,9 @@ export default class Header extends React.Component {
         return (
             <header id="masthead" className="site-header">
               {_.get(this.props, 'image', null) ? (
-              <div id="header-bg" className="site-header-bg" style={toStyleObj('background-image:url(\'' + safePrefix(_.get(this.props, 'image', null)) + '\')')}/>
+              <div id="header-bg" className="site-header-bg" style={toStyleObj('background-image:url(\'' + withPrefix(_.get(this.props, 'image', null)) + '\')')}/>
               ) : (_.get(this.props, 'site.siteMetadata.header.background_img', null) && (
-              <div id="header-bg" className="site-header-bg" style={toStyleObj('background-image:url(\'' + safePrefix(_.get(this.props, 'site.siteMetadata.header.background_img', null)) + '\')')}/>
+              <div id="header-bg" className="site-header-bg" style={toStyleObj('background-image:url(\'' + withPrefix(_.get(this.props, 'site.siteMetadata.header.background_img', null)) + '\')')}/>
               ))}
               <div className="site-header-scroll">
                 <div className="site-header-inside">
