@@ -2,7 +2,7 @@
     "description": "A a place to host my photos and thoughts",
     "header": {
         "title": "Donnay.ca",
-        "tagline": "Welcome to my photoboog",
+        "tagline": "Welcome to my photoblog ",
         "logo_img": "images/logo.png",
         "background_img": "images/header-bg.jpg",
         "has_nav": true,
