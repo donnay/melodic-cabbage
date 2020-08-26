@@ -1,10 +1,10 @@
 {
-    "description": "A minimal blogging theme for Stackbit",
+    "description": "A a place to host my photos and thoughts",
     "header": {
-        "title": "Fjord",
-        "tagline": "Minimal and clean blog theme",
-        "logo_img": "images/logo.png",
-        "background_img": "images/header-bg.jpg",
+        "title": "Donnay.ca",
+        "tagline": "Welcome to my photoblog ",
+        "logo_img": "images/7E864927-2F83-4806-9FA3-E3B643A32591.png",
+        "background_img": "images/991093BD-B805-4487-91FA-409220F01951.jpeg",
         "has_nav": true,
         "nav_links": [
             {
@@ -32,30 +32,23 @@
         "social_links": [
             {
                 "label": "Twitter",
-                "url": "https://twitter.com/",
+                "url": "https://twitter.com/kevindclarke",
                 "style": "icon",
                 "icon_class": "fa-twitter",
                 "new_window": true
             },
             {
                 "label": "Instagram",
-                "url": "https://www.instagram.com/",
+                "url": "https://www.instagram.com/kevindclarke",
                 "style": "icon",
                 "icon_class": "fa-instagram",
                 "new_window": true
             },
             {
                 "label": "GitHub",
-                "url": "https://github.com/",
+                "url": "https://github.com/donnay",
                 "style": "icon",
                 "icon_class": "fa-github",
-                "new_window": true
-            },
-            {
-                "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
-                "style": "icon",
-                "icon_class": "fa-linkedin",
                 "new_window": true
             },
             {
@@ -79,5 +72,5 @@
         ]
     },
     "palette": "yellow",
-    "title": "Stackbit Fjord Theme"
+    "title": "Donnay.ca photoblog"
 }
