@@ -16,7 +16,7 @@ In late Summer I took a vacation to Vancouver Island and walked along the Gallop
 
 ## Wear conformatable (Not New!) shoes
 
-![New Shoes]{/images/shoes.jpg)
+![New Shoes](/images/shoes.jpg)
 When going for photo-walks make sure you wear comfortable shoes, don't wear new ones that have not been properly worn in!
 
 
