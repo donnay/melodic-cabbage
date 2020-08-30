@@ -14,7 +14,7 @@ The **Galloping Goose Regional Trail** is a 55-kilometre (34 mi) rail trail betw
 
 In late Summer I took a vacation to Vancouver Island and walked along the Galloping Goose.
 
-## Wear conformatable (Not New!) shoes
+## Wear comfortable (Not New!) shoes
 
 ![New Shoes](/images/shoes.jpg)
 When going for photo-walks make sure you wear comfortable shoes, don't wear new ones that have not been properly worn in!
