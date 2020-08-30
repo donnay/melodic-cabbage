@@ -27,3 +27,8 @@ Stackbit Fjord Theme original README is located [here](./README.theme.md).
         npm run develop
 
 1. Browse to [http://localhost:8000/](http://localhost:8000/)
+
+
+[![Run on Repl.it](https://repl.it/badge/github/donnay/melodic-cabbage)](https://repl.it/github/donnay/melodic-cabbage)
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0d1dcabc-6611-453a-908b-9b65133cf258/deploy-status)](https://app.netlify.com/sites/melodic-cabbage-a0145/deploys) 
