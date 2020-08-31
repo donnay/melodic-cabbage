@@ -6,7 +6,7 @@ subtitle: >-
 excerpt: >-
   The way I spend time out in nature can affect how much my physical and mental
   health will recharge and how I benefit from it.
-date: '2019-08-31'
+date: '2020-08-31'
 thumb_img_path: images/4.jpg
 hide_header: true
 template: post
