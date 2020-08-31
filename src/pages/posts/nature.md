@@ -5,7 +5,7 @@ subtitle: >-
   health will recharge and how I benefit from it.
 excerpt: >-
   Spending time out walking around taking photos in nature can affect how much
-  my physical and mental health will recharge and how I benefit from it.
+  my physical and mental health will recharge and how I benefit from it
 date: '2020-08-31'
 thumb_img_path: images/0C9516A8-4CF9-448B-AB6C-C6411BB1E155.jpeg
 hide_header: true
