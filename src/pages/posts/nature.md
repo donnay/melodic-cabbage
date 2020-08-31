@@ -6,7 +6,7 @@ excerpt: >-
   meditative and recharges me.
 date: '2020-08-31'
 thumb_img_path: images/seal.jpg
-content_img_path: images/trail.jpg
+content_img_path: images/trail.jp2
 template: post
 ---
 
@@ -24,6 +24,6 @@ Victoria Harbour
 ##New friends:
 ![Street Life](/images/street_life.jpg)
 
-and maybe some shopping:
+##Maybe some shopping:
 ![Cute Mall](/images/mall.jpg)
 
