@@ -29,3 +29,6 @@ Victoria Harbour
 And new friends:
 ![Street Life](/images/street_life.jpg)
 
+and maybe some shopping:
+![Cute Mall](/images/mall.jpg)
+
