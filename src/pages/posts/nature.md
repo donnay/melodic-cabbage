@@ -12,13 +12,11 @@ hide_header: true
 template: post
 content_img_path: images/path.jpg
 ---
-
-## Get out for a walk, explore your surroundings! 
-Weather it is your local neighbourhood, a nearby park or trail, or a nearby destination - it's great cardio, and even if you snap shots with your iPhone you'll have not only burnt calories and snap shots as well.
 ![Harbour Seal](/images/seal.jpg)
+## Get out for a walk, explore your surroundings!
+Weather it is your local neighbourhood, a nearby park or trail, or a nearby destination - it's great cardio, and even if you snap shots with your iPhone you'll have not only burnt calories and snap shots as well.
 
 ![Victoria Harbour](/images/harbour.jpg)
 
 A nice walk in the fresh air can introduce you to new friends, new vistas and street life! 
 ![Street Life](/images/street_life.jpg)
-
