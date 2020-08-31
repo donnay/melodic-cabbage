@@ -6,10 +6,10 @@ excerpt: >-
   Spending time out walking around taking photos affects both my physical and
   mental health, it is meditative and recharges me. 
 date: '2020-08-31'
-thumb_img_path: images/walk.jpg
+thumb_img_path: images/seal.jpg
 hide_header: true
 template: post
-content_img_path: images/path.jpg
+content_img_path: images/walk.jpg
 
 ---
 
