@@ -1,5 +1,5 @@
 ---
-title: Photo-walks: My way to relax in and de-stress
+title: Photo-walks - My way to relax in and de-stress
 subtitle: >-
   I like to spend time out in nature going on photo-walks. They are a great way to get some exercize, get out of my head, and document the world around me.
 excerpt: >-
