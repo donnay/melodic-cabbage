@@ -7,7 +7,7 @@ excerpt: >-
   means of an image sensor, or chemically by means of a light-sensitive material
   such as photographic film.
 date: '2020-09-01'
-thumb_img_path: images/gears.jp2
+thumb_img_path: images/gears2.jp2
 content_img_path: images/tower.jpg
 template: post
 ---
@@ -24,4 +24,5 @@ The results were amazing to me! My recolection of the photos were that they were
 
 > When you photograph people in color, you photograph their clothes. But when you photograph people in Black and white, you photograph their souls! ― Ted Grant
 
+![Gears](/images/gears.jp2)
 
