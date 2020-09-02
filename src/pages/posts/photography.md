@@ -1,13 +1,13 @@
 ---
-title: What Is Photography and What It Means To Me
-subtitle: A intresting tale about Photography and me
+title: What Is Photography, and What It Means To Me
+subtitle: A tale about photography and me
 excerpt: >-
   Photography is the science, art and practice of creating durable images by
   recording light or other electromagnetic radiation, either electronically by
   means of an image sensor, or chemically by means of a light-sensitive material
   such as photographic film.
 date: '2020-09-01'
-thumb_img_path: images/gears.jp2
+thumb_img_path: images/gears2.jp2
 content_img_path: images/tower.jpg
 template: post
 ---
@@ -20,8 +20,9 @@ I remember with great anticipation giving the film in to be processed and waitin
 
 The results were amazing to me! My recolection of the photos were that they were poorly framed, out of focus (the camera was fixed focus) and badly lit. I was in love!
 
-## Coming soon my first SLR
+## Stay tuned for my first SLR
 
 > When you photograph people in color, you photograph their clothes. But when you photograph people in Black and white, you photograph their souls! ― Ted Grant
 
+![Gears](/images/gears.jp2)
 
